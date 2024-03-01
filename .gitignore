@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Optional IDE and editor-specific files
+.vscode/
+.history/
+
+# Production build
+build/
+dist/

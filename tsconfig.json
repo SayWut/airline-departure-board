@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "outDir": "build",
+        "rootDir": "src",
+        "strict": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "moduleResolution": "Node",
+    },
+    "exclude": [
+        "example",
+        "build",
+    ]
+}

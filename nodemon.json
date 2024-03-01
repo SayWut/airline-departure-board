@@ -1,0 +1,9 @@
+{
+  "watch": ["src", "example"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "ts-node --esm ./example/example.ts",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
