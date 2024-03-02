@@ -3,14 +3,14 @@ import LLBGAirportSource from "./airports/llgbAirportSource/LLBGAirportSource";
 
 module DepartureBoards {
     /**
-     * We are achieving three things 
+     * The following 4 small lines of code achieves three things 
      * Type safety: 
      * The code leverages type annotations to enforce type consistency, making the code 
      * less prone to errors and easier to understand.
      * 
      * Maintainability: 
      * Adding new supported airports requires only updating the supportedAirportsCode array. 
-     * The SupportedAirports type and sourceMap automatically adapt to the changes, improving code
+     * The SupportedAirports type and sourceMap automatically adapt to the changes which improving code
      * maintainability.
      * 
      * Error prevention: 
